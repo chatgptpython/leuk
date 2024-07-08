@@ -4,13 +4,12 @@
   "description": "",
   "scripts": {
     "start": "mintlify dev",
-    "postinstall": "npm install --include=optional sharp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Your Name",
   "license": "ISC",
   "dependencies": {
-    "sharp": "^0.33.2",
-    "mintlify": "latest"
+    "mintlify": "latest",
+    "sharp": "^0.33.2"
   }
 }
